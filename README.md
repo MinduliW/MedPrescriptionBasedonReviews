@@ -1,2 +1,1 @@
-# MedPrescriptionBasedonReviews
-Medical prescriptions based on reviews
+# Medical Prescriptions Based on Reviews
